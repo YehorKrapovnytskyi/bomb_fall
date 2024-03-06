@@ -1,5 +1,4 @@
 
-<script src="https://rawcdn.githack.com/oscarmorrison/md-page/md-page.js"></script><noscript>
 
 # A simulation of a falling bomb using the c4dynamics library
 
