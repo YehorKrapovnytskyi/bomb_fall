@@ -16,5 +16,6 @@ C - drag coefficient\
 ρ - air density\
 $A_{k}$ - cross section area of falling object in direction k\
 $v_{k}$ - falling object velocity in direction K\
+g - gravitation constant
 
 The simulation and modeling process is performed using the c4dynamics package.
